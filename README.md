@@ -1,1 +1,8 @@
-# BAN-502-Course-Files
+# BAN-502-Course-Files[Mod-1-Assign-2.docx](https://github.com/amandawilliams8572/BAN-502-Course-Files/files/7289928/Mod-1-Assign-2.docx)
+[Mod-2-Assign-MLR.docx](https://github.com/amandawilliams8572/BAN-502-Course-Files/files/7289929/Mod-2-Assign-MLR.docx)
+[ModelValidationAssign.docx](https://github.com/amandawilliams8572/BAN-502-Course-Files/files/7289930/ModelValidationAssign.docx)
+[LogRegClassificationAssign.docx](https://github.com/amandawilliams8572/BAN-502-Course-Files/files/7289931/LogRegClassificationAssign.docx)
+[Class-Tree-Assign.docx](https://github.com/amandawilliams8572/BAN-502-Course-Files/files/7289932/Class-Tree-Assign.docx)
+[RFAssign.docx](https://github.com/amandawilliams8572/BAN-502-Course-Files/files/7289933/RFAssign.docx)
+[Phase-1.docx](https://github.com/amandawilliams8572/BAN-502-Course-Files/files/7289934/Phase-1.docx)
+[Clustering.docx](https://github.com/amandawilliams8572/BAN-502-Course-Files/files/7289935/Clustering.docx)
